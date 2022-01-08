@@ -154,9 +154,12 @@ async def start(client, message):
         for msg in msgs_list:
             try:
                 await client.copy_message(chat_id=message.chat.id, from_chat_id=int(f_chat_id), message_id=msg)
+            except FloodWait as e:
+                await asyncio.sleep(e.x)
+                await client.copy_message(chat_id=message.chat.id, from_chat_id=int(f_chat_id), message_id=msg)
             except Exception as e:
                 logger.exception(e)
-                pass  
+                continue 
         return await sts.delete()
 
     files_ = await get_file_details(file_id)           
