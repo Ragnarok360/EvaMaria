@@ -28,7 +28,7 @@ Join <a href=https://t.me/SS07MOVIEHUT>Movie Hut</a> """
 - _adx_hellcat_"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
-- Filter is the feature were users can set automated replies for a particular keyword and ᴅᴏᴅɢᴇ sʀᴛ will respond whenever a keyword is found the message
+- Filter is the feature were users can set automated replies for a particular keyword and <a href=https://t.me/{}>{}</a> will respond whenever a keyword is found the message
 
 <b>NOTE:</b>
 1. ᴅᴏᴅɢᴇ sʀᴛ should have admin privillage.
@@ -42,11 +42,11 @@ Join <a href=https://t.me/SS07MOVIEHUT>Movie Hut</a> """
 • /delall - <code>delete the whole filters in a chat (chat owner only)</code>"""
     BUTTON_TXT = """Help: <b>Buttons</b>
 
-- ᴅᴏᴅɢᴇ sʀʏ Supports both url and alert inline buttons.
+- <a href=https://t.me/{}>{}</a> Supports both url and alert inline buttons.
 
 <b>NOTE:</b>
 1. Telegram will not allows you to send buttons without any content, so content is mandatory.
-2. ᴅᴏᴅɢᴇ sʀᴛ supports buttons with any telegram media type.
+2. <a href=https://t.me/{}>{}</a> supports buttons with any telegram media type.
 3. Buttons should be properly parsed as markdown format
 
 <b>URL buttons:</b>
@@ -77,7 +77,7 @@ Join <a href=https://t.me/SS07MOVIEHUT>Movie Hut</a> """
     EXTRAMOD_TXT = """Help: <b>Extra Modules</b>
 
 <b>NOTE:</b>
-these are the extra features of ᴅᴏᴅɢᴇ sʀʏ
+these are the extra features of <a href=https://t.me/{}>{}</a>
 
 <b>Commands and Usage:</b>
 • /id - <code>get id of a specifed user.</code>
