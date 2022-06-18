@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://telegra.ph/file/a770ac5212180170f640d.jpg" alt="Eva Maria Logo">
+  <img src="https://telegra.ph/file/4ab42efb406401a36d097.jpg" alt="Eva Maria Logo">
 </p>
 <h1 align="center">
-  <b>ᴅᴏᴅɢᴇ sʀᴛ</b>
+  <b>ᴋᴀᴛʏ ᴘᴇʀʀʏ</b>
 </h1>
 
 
